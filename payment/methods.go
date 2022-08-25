@@ -31,7 +31,7 @@ const (
 	CardNetworkMir                CardNetwork = "mir"
 	CardNetworkMEPS               CardNetwork = "meps"
 	CardNetworkNETS               CardNetwork = "nets"
-	CardNetworkPayPak             CardNetwork = "paypak"
+	CardNetworkPayPal             CardNetwork = "paypal"
 	CardNetworkRuPay              CardNetwork = "rupay"
 	CardNetworkTroy               CardNetwork = "troy"
 	CardNetworkVpay               CardNetwork = "vpay"
